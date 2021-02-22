@@ -1,0 +1,11 @@
+caption {
+    caption-side: top;
+    text-align: center;
+    font-weight: bold; 
+    color: black;
+}
+
+/* Solid border */
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
